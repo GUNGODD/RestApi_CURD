@@ -1,0 +1,22 @@
+{
+  "name": "curd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "flowbite": "^2.2.1",
+    "json": "^11.0.0",
+    "mongoose": "^8.1.1",
+    "node-fetch": "^3.3.2",
+    "open": "^10.0.3",
+    "tailwindcss": "^3.4.1",
+    "yargs": "^17.7.2"
+  }
+}
